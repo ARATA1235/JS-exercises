@@ -1,0 +1,26 @@
+.change {
+    color: aqua;
+    font-size:  20px;
+}
+
+.change1 {
+    color: red;
+    font-size:  20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.change2 {
+    color: gold;
+    font-size:  30px;
+    border: 1px rgb(74, 43, 255) dashed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.change3 {
+    color: magenta;
+    font-size:  20px;
+    border: 1px rgb(36, 182, 48) solid;
+    text-align: right;
+}
